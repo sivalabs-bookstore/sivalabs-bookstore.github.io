@@ -1,0 +1,31 @@
+site_name: "SivaLabs BookStore"
+site_description: "SivaLabs BookStore Docs"
+site_author: "K Siva Prasad Reddy"
+site_url: "https://sivalabs-bookstore.github.io/"
+
+# Repository
+repo_name: "sivalabs-bookstore/sivalabs-bookstore.github.io"
+repo_url: "https://sivalabs-bookstore.github.io"
+
+# Copyright
+copyright: "Copyright &copy; 2023 K Siva Prasad Reddy"
+
+theme:
+  name: material
+nav:
+  - Home: index.md
+
+# Customization
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: "https://github.com/sivaprasadreddy"
+    - icon: fontawesome/brands/twitter
+      link: "https://twitter.com/sivalabs"
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/"
+
+# Extensions
+markdown_extensions:
+  - codehilite
