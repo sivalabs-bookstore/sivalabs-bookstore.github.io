@@ -18,7 +18,8 @@ nav:
   - Payment Service: payment-service.md
   - Order Service: order-service.md
   - Delivery Service: delivery-service.md
-
+  - Deployment:
+      - DockerCompose: deployment/docker-compose.md
 # Customization
 extra:
   manifest: "manifest.webmanifest"
