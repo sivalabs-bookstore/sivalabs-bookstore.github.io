@@ -18,6 +18,7 @@ nav:
   - Payment Service: payment-service.md
   - Order Service: order-service.md
   - Delivery Service: delivery-service.md
+  - Implementations: implementations.md
   - Deployment:
       - DockerCompose: deployment/docker-compose.md
 # Customization
@@ -34,3 +35,4 @@ extra:
 # Extensions
 markdown_extensions:
   - codehilite
+  - tables
