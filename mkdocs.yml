@@ -14,6 +14,10 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Catalog Service: catalog-service.md
+  - Payment Service: payment-service.md
+  - Order Service: order-service.md
+  - Delivery Service: delivery-service.md
 
 # Customization
 extra:
